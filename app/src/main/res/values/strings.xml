@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wisher </string>
+    <string name="txttop">Create Morning Greet Card</string>
+    <string name="btntxt">Create Card</string>
+    <string name="etname">Enter Name</string>
+
+</resources>
